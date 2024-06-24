@@ -1,0 +1,253 @@
+@import url('link href="https://fonts.googleapis.com/css2?family=Playwrite+ES:wght@100..400&display=swap');
+    
+
+head {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+body {
+    font-family: "Playwrite ES", cursive;
+    align-items: center;
+} 
+
+a {
+    text-decoration: none;
+    color: #967259;
+}
+
+p {
+    font-size: 30px;
+    margin-left: 200px;
+    margin-right: 50px;
+}
+.navbar {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    text-wrap: wrap;
+    flex-direction: row;
+    font-size: 40px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #47241A;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin: -20px;
+    box-sizing: content-box;
+    padding-top: 2%;
+    margin-bottom: -150px;
+}
+
+.footer {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    text-wrap: wrap;
+    flex-direction: row;
+    font-size: 50px;
+    border-style: solid;
+    color: #000000;
+    border-color: #de7c00;
+    background-color: #de7c00;
+    padding-top: -20px;
+    margin: -10px;
+    box-sizing: content-box;
+    margin-bottom: 5px;
+}
+
+.footlink a:visited {
+    color: #000000;
+
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    margin-bottom: -100px;
+    margin-top: 100px;
+}
+
+.subheading {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.drinksmenu {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 50px;
+    margin-top: 10%
+}
+
+.drinksmenutext {
+    display: flex;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.pastriesmenu {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 50px;
+    margin-top: 10%
+}
+
+.pastriesmenutext {
+    display: flex;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.thecoffeebarimage {
+    display: flex;
+    justify-content: center;
+}
+
+.lattetext {
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.latteimage {
+    width: 30%;
+    border: 2px;
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+    border-radius: 100px;
+}
+
+.espressoimage {
+    width: 30%;
+    border: 2px;
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+    border-radius: 100px;
+}
+
+.icedcoffeeimage {
+    width: 30%;
+    border: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+}
+
+.coldbrewimage {
+    width: 30%;
+    border: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+}
+
+.matchabeetrootimage {
+    width: 30%;
+    border: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+}
+
+.pastriesimages {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.bread {
+    width: 30%;
+    border: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.croissant {
+    width: 30%;
+    border: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cinnamonroll {
+    width: 30%;
+    border: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cookies {
+    width: 30%;
+    border: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.painauchocolat {
+    width: 30%;
+    border: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.textbox {
+    /* border: solid, 2px, red; */
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.openingtimes {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 10%;
+    border: #47241A, solid;
+    border-radius: 100px;
+    margin-left: 900px;
+    margin-right: 900px;
+}
+
+.days {
+    margin: 0px;
+}
+
+footer {
+    margin-top: 10%;
+}
