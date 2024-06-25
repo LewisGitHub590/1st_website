@@ -182,6 +182,7 @@ p {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    text-align: center;
 }
 
 .bread {
@@ -228,6 +229,8 @@ p {
     /* border: solid, 2px, red; */
     margin-top: 5px;
     margin-bottom: 5px;
+    margin-left: 0%;
+    margin-right: 0%;
 }
 
 .openingtimes {
@@ -236,12 +239,14 @@ p {
     flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
+    text-align: center;
     font-size: 50px;
     margin-top: 20%;
     border: #47241A, solid;
     border-radius: 100px;
-    margin-left: 900px;
-    margin-right: 900px;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
     margin-top: 12%;
 }
 
